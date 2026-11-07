@@ -1,0 +1,17 @@
+{
+  "name": "名词手册 · 生物化学与细胞生物学",
+  "short_name": "名词手册",
+  "description": "生物化学与细胞生物学名词解释离线手册：分类浏览、关键词搜索、收藏。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f2f7",
+  "theme_color": "#2f6f63",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
